@@ -63,7 +63,8 @@ This tool automatically captures the audio from other sources like the desktop s
 
 This audio problem was solved by our teammate **RJCyber - (Captain of CyberSpace team)** and the WAV file decodes to this message.
 
-![image](https://github.com/ctfguy/My_CTF_Writeups/assets/138273779/91ec1721-85c6-4fb6-8cbe-4d5e1ad3ef5e)
+![image](https://github.com/ctfguy/My_CTF_Writeups/assets/138273779/9ea9d2b8-9295-4922-9bee-829716fce1f1)
+
 
 ```
 ZCZC-UXU-TFR-R18007ST_45-0910BR5-KIND3RWS-____
