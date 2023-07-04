@@ -104,13 +104,13 @@ $$\mathrm{ n = (e * d - 1)\ //\ M}$$
 
  From the above equation we can write
 
-$$\mathrm{ e*d - 1 = k*M}$$
+$$\mathrm{ e.d - 1 = k.M}$$
 
 for some intger `k`.
 
-$$\implies \mathrm{ e*d -1 = k(a*b-1)}$$
+$$\implies \mathrm{ e*d -1 = k(ab-1)}$$
 
-$$\implies \mathrm{ e*d -1 = k*a*b-k}$$
+$$\implies \mathrm{ e*d -1 = k.ab-k}$$
   
 Now, let’s consider the greatest common divisor of `e` and `n`. 
 
