@@ -148,7 +148,7 @@ If $\mathrm{p\ |\ q}$ , then we can write $\mathrm{q = p * r}$ for some integer 
   
    However, this contradicts our assumption that `p` is a prime divisor of $\mathrm{gcd(e,n)}$ , since if $\mathrm{gcd(e,n)}$ is divisible by $\mathrm{p^2}$ then it must be divisible by `p` as well.
 
-If either $\mathrm{p\ |\ a}$ or $\mathrm{p\ |\ b}$ then since $\mathrm{e=a_*M+a}$ and $\mathrm{M=a*b-1}$ it follows that `e` is divisible by `p`. However this contradicts our assumption that $\mathrm{gcd(e,n)>1}$ since if `e` is divisible by `p` then $\mathrm{gcd(e,n)}$ must be divisible by `p` as well.
+If either $\mathrm{p\ |\ a}$ or $\mathrm{p\ |\ b}$ then since $\mathrm{e=a_\ *M+a}$ and $\mathrm{M=a*b-1}$ it follows that `e` is divisible by `p`. However this contradicts our assumption that $\mathrm{gcd(e,n)>1}$ since if `e` is divisible by `p` then $\mathrm{gcd(e,n)}$ must be divisible by `p` as well.
 
 Therefore, our assumption that $\mathrm{gcd(e,n)>1}$ must be false. This means that $\mathrm{gcd(e,n)=1}$ and hence `e` and `n` are coprime.
 
