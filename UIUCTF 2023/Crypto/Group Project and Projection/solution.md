@@ -297,7 +297,7 @@ $$\implies \mathrm{(x^{((p-1)/w)})^{w} = x^{(p-1)} = 1 (mod p)} $$
 
 In other words, raising any element of the group to the power of `(p-1)/w` will map it to an element of `Gw`
 
-The shared secret `S` is computed as `S = pow(Bk, a, p)` , which is equivalent to $\mathrm{(B^{k})^{a} = B^{(ka)} }$ . Since both `Bk` and `a` are elements of  $\mathbb{Z/p\mathbb Z^*}$ , their product will also be an element of  $\mathbb{Z/p\mathbb Z^*}$ . Furthermore, since both `Bk` and `a` are elements of `Gw` , their product will also be an element of `Gw` . This means that the shared secret `S` is confined to the small subgroup `Gw` .
+The shared secret `S` is computed as `S = pow(Bk, a, p)` , which is equivalent to $\mathrm{(B^{k})^{a} = B^{(ka)} }$ . Since both `Bk` and `a` are elements of  $\mathbb{Z/p\mathbb Z^{\*}}$ , their product will also be an element of  $\mathbb{Z/p\mathbb Z^\{*}}$ . Furthermore, since both `Bk` and `a` are elements of `Gw` , their product will also be an element of `Gw` . This means that the shared secret `S` is confined to the small subgroup `Gw` .
 
 Since `Gw` is a small subgroup, it is possible to find the value of `S` by exhaustive search efficiently. Once we found the value of `S` , we can use it to compute the key and decrypt the ciphertext to obtain the flag. 
 
