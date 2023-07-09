@@ -174,9 +174,28 @@ conn.close()
 `uiuctf{brut3f0rc3_a1n't_s0_b4d_aft3r_all!!11!!}`
 
 
+**This was part just part one, now comes the interesting version of it - Group Projection**
+
+# Challenge description
+
+```
+Group Projection
+
+I gave you an easier project last time. 
+This one is sure to break your grade!
+
+```
+* Category: Cryptography
+* Points: 50
+* Author: Anakin
+
+```
+nc group-projection.chal.uiuc.tf 1337
+```
+
+
+
 **Solved by ctfguy from Team - CyberSpace**
-
-
 
 
 
