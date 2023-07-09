@@ -178,7 +178,7 @@ conn.close()
 **This was part just part one, now comes the interesting version of it - Group Projection**
 
 
-# Challenge description (Group Porjection)
+# Challenge description (Group Projection)
 
 ```
 Group Projection
